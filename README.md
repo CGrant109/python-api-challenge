@@ -1,6 +1,8 @@
 ## Python-Api-Challenge:
 ## A Deep-Dive on Varying Weather Among Cities World-Wide Using Pandas and Api's
 
+[![Kauai-Hawaii.jpg](https://i.postimg.cc/wMTWSHTQ/Kauai-Hawaii.jpg)](https://postimg.cc/hz6bdkmX)
+
 Finding temperatures, humidity, cloudiness, and wind speed among cities.
 
 ## Methods Used  
@@ -34,11 +36,13 @@ jupyter notebook
 
 #2. Based on Latitude vs Temperature Plot, we can infer that the max temperature goes down significantly as we move higher in latitude inbetween 30 and 60 latitude in particular. This is especially true when witnessing the Nothern Hemisphere in Max Temp vs Latitude Linear Regression.
 
+[![Northern-Hemisphere-Max-Temp-vs-Latitude-Linear-Regression.png](https://i.postimg.cc/jSd88ySn/Northern-Hemisphere-Max-Temp-vs-Latitude-Linear-Regression.png)](https://postimg.cc/zV6SvbWq)
+
 
 
 #3. Evidenced by the Northern Hemisphere - Cloudiness (%) vs. Latitude Linear Regression, we can see that as we move higher in latitude, the cloudiness of cities observed in these areas have higher levels of cloudiness.
 
-
+[![Northern-Hemisphere-Cloudiness-vs-Latitude-Linear-Regression.png](https://i.postimg.cc/yxyPjNqT/Northern-Hemisphere-Cloudiness-vs-Latitude-Linear-Regression.png)](https://postimg.cc/0KrD2Py6)
 
 #4. After graduating this bootcamp, I need to plan a vacation somewhere warm.
 
