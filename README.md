@@ -12,7 +12,7 @@ Dataframes, scatter plots, heatmaps, and linear regression
 
 ## Technologies
 
-Jupyter notebook, Pandas, MatPlotLib.pyplot, scipy.stats, numpy, json, time, requests
+Jupyter notebook, Pandas, MatPlotLib.pyplot, scipy.stats, numpy, json, time, requests, Google API
 
 
 ## Data Source
